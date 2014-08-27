@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LBDebugLogEnabled</key>
+	<true/>
+	<key>CFBundleName</key>
+	<string>RAM Drive</string>
+	<key>CFBundleIconFile</key>
+	<string>RAMDrive.png</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.facetheheat.ramdrive</string>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBRequiresArgument</key>
+			<true/>
+			<key>LBLiveFeedbackEnabled</key>
+			<true/>
+			<key>LBKeepWindowActive</key>
+			<true/>
+			<key>LBScriptName</key>
+			<string>listFS.py</string>
+		</dict>
+	</dict>
+	<key>LBTextInputTitle</key>
+	<string>Enter size(clusters/Mb/Gb) of RAM Drive</string>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBDownload</key>
+		<string>https://github.com/facetheheat</string>
+		<key>LBChangelog</key>
+		<string></string>
+		<key>LBSummary</key>
+		<string>Create a RAM Drive</string>
+		<key>LBAuthor</key>
+		<string>Pavel Miroshnichenko</string>
+		<key>LBEmail</key>
+		<string>facetheheat@icloud.com</string>
+		<key>LBWebsite</key>
+		<string>https://github.com/facetheheat</string>
+		<key>LBUpdate</key>
+		<string>https://github.com/facetheheat</string>
+	</dict>
+</dict>
+</plist>
