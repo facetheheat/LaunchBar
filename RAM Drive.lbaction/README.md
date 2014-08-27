@@ -2,8 +2,8 @@
 
 This action creates a RAM drive with selected size and format volume with any installed filesystem.
 
-![](../img/01.png)
-![](../img/02.png)
+![](images/RAMDrive_Intro.png)
+![](images/RAMDrive.gif)
 
 Notes:
 * 
