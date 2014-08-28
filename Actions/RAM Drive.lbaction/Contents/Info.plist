@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>LBDebugLogEnabled</key>
-	<true/>
+	<false/>
 	<key>CFBundleName</key>
 	<string>RAM Drive</string>
 	<key>CFBundleIconFile</key>
