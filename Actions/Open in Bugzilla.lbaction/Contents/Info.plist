@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LBKeepWindowActive</key>
+	<false/>
+	<key>LBRequiresArgument</key>
+	<true/>
+	<key>LBReturnsResult</key>
+	<false/>
+	<key>LBRunInBackground</key>
+	<false/>
+	<key>LBLiveFeedbackEnabled</key>
+	<true/>
+	<key>LBDebugLogEnabled</key>
+	<false/>
+	<key>CFBundleName</key>
+	<string>Open in Bugzilla</string>
+	<key>CFBundleIconFile</key>
+	<string>Bugzilla.png</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.facetheheat.openinbugzilla</string>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBRequiresArgument</key>
+			<true/>
+			<key>LBLiveFeedbackEnabled</key>
+			<true/>
+			<key>LBKeepWindowActive</key>
+			<true/>
+			<key>LBScriptName</key>
+			<string>script.py</string>
+		</dict>
+	</dict>
+	<key>LBTextInputTitle</key>
+	<string>paste ticket(s) number</string>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBDownload</key>
+		<string>https://github.com/facetheheat</string>
+		<key>LBChangelog</key>
+		<string></string>
+		<key>LBSummary</key>
+		<string>Open Links from the clipboard in Bugzilla</string>
+		<key>LBAuthor</key>
+		<string>Pavel Miroshnichenko</string>
+		<key>LBEmail</key>
+		<string>facetheheat@icloud.com</string>
+		<key>LBWebsite</key>
+		<string>https://github.com/facetheheat</string>
+		<key>LBUpdate</key>
+		<string>https://github.com/facetheheat</string>
+	</dict>
+</dict>
+</plist>
