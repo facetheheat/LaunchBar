@@ -36,9 +36,9 @@ for fs in listFilesystems:
         item['icon'] = 'fat.png'
     elif fs == 'ExFAT':
         item['icon'] = 'exfat.png'
-    elif fs == 'UFSD_NTFS' or fs == 'UFSD_NTFSCOMPR':
+    elif fs == 'UFSD_NTFS' or fs == 'UFSD_NTFSCOMPR' or fs == 'Tuxera NTFS':
         item['icon'] = 'ntfs.png'
-    elif fs == 'UFSD_EXTFS':
+    elif fs == 'UFSD_EXTFS' or fs == 'UFSD_EXTFS3' or fs == 'UFSD_EXTFS4':
         item['icon'] = 'extfs.png'
     elif fs == 'HFS+' or fs == 'Journaled HFS+' or 'Case-sensitive HFS+' or 'Case-sensitive Journaled HFS+':
         item['icon'] = 'hfs.png'
