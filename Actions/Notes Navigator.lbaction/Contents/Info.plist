@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.9</string>
+	<key>LBDebugLogEnabled</key>
+	<false/>
+	<key>CFBundleIdentifier</key>
+	<string>com.facetheheat.notesnavigator</string>
+	<key>CFBundleIconFile</key>
+	<string>com.apple.Notes</string>
+	<key>CFBundleName</key>
+	<string>Notes Navigator</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LBRequiredApplication</key>
+	<string>com.apple.Notes</string>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBReturnsResult</key>
+			<true/>
+			<key>LBScriptName</key>
+			<string>default.scpt</string>
+		</dict>
+	</dict>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBDownload</key>
+		<string>https://github.com/facetheheat</string>
+		<key>LBChangelog</key>
+		<string></string>
+		<key>LBWebsite</key>
+		<string>https://github.com/facetheheat</string>
+		<key>LBEmail</key>
+		<string>facetheheat@icloud.com</string>
+		<key>LBSummary</key>
+		<string>Simple notes.app navigator</string>
+		<key>LBAuthor</key>
+		<string>Pavel Miroshnichenko</string>
+		<key>LBTwitter</key>
+		<string>@bettercallpavel</string>
+	</dict>
+</dict>
+</plist>
