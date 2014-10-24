@@ -1,18 +1,16 @@
-# Open in Bugzilla: The clipboard link parser
+# Notes Navigator
 
-This action - the clipboard links parser. If someone send you short ticket to bugzilla bugtracker, you can easily open it in a seconds. 
-
+An action for navigating between notes & folder from Notas.app.
+Hit 'Return' to open Notes.app with seleted note.
 
 ## Features
-* parsing multiple ticket numbers
+* Hit 'Enter' to open note
+* Simple keyboard navigation
+* Groups notes by folders
 
- 
+
 ## Installation
 * Click "Download ZIP" on the right
-* Run LaunchBar/Open In Bugzilla.lbaction to install
+* Run LaunchBar/Note Navigator.lbaction to install
 
-
-![](./images/Bugzilla_Intro.png)
-![](./images/Bugzilla_Demo.gif)
-
-
+![](./images/Notes_Demo.gif)
