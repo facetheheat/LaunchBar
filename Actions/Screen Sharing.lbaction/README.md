@@ -3,13 +3,12 @@
 This action - the viewer of history of screen sharing connections.
 
 ## Features
-* Input: smb, cifs, windows sharing, unix links
-* Copy one or multiple links
-
- 
-## Installation
 * Get connections from *.vncloc files
 * Auto substitution
+
+## Installation
+* Click "Download ZIP" on the right
+* Run LaunchBar/Screen Sharing.lbaction to install
 
 
 ![](./images/ScreenSharing_Demo.gif)
