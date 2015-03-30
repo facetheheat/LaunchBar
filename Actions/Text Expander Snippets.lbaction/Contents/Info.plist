@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LBDebugLogEnabled</key>
+	<false/>
+	<key>LBRequiredApplication</key>
+	<string>com.smileonmymac.textexpander</string>
+	<key>LBAssociatedApplication</key>
+	<string>com.smileonmymac.textexpander</string>
+	<key>CFBundleIconFile</key>
+	<string>com.smileonmymac.textexpander</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.facetheheat.textexpanderjs</string>
+	<key>CFBundleName</key>
+	<string>Text Expander Snippets</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.1</string>
+	<key>LBTextInputTitle</key>
+	<string>Find a snippet</string>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBAcceptedArgumentTypes</key>
+			<array>
+				<string>string</string>
+			</array>
+			<key>LBRequiresArgument</key>
+			<true/>
+			<key>LBScriptName</key>
+			<string>default.js</string>
+		</dict>
+		<key>LBSuggestionsScript</key>
+		<dict>
+			<key>LBScriptName</key>
+			<string>suggestions.js</string>
+			<key>LBRunInBackground</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBChangelog</key>
+		<string></string>
+		<key>LBSummary</key>
+		<string>Searches Text Expander</string>
+		<key>LBRequirements</key>
+		<string>Requires a Text Expander</string>
+		<key>LBAuthor</key>
+		<string>Pavel Miroshnichenko</string>
+		<key>LBEmail</key>
+		<string>pavel@miroshnichen.co</string>
+		<key>LBWebsite</key>
+		<string>https://github.com/facetheheat</string>
+		<key>LBTwitter</key>
+		<string>@previewthenew</string>
+	</dict>
+</dict>
+</plist>
