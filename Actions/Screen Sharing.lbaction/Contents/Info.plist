@@ -35,10 +35,12 @@
 	</dict>
 	<key>LBDescription</key>
 	<dict>
+		<key>LBTwitter</key>
+		<string>@previewthenew</string>
 		<key>LBUpdate</key>
 		<string>https://github.com/facetheheat</string>
 		<key>LBWebsite</key>
-		<string>https://github.com/facetheheat</string>
+		<string>http://pavel.miroshnichen.co</string>
 		<key>LBEmail</key>
 		<string>pavel@miroshnichen.co</string>
 		<key>LBChangelog</key>

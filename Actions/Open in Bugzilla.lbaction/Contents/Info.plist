@@ -48,10 +48,12 @@
 		<string>Open Links from the clipboard in Bugzilla</string>
 		<key>LBAuthor</key>
 		<string>Pavel Miroshnichenko</string>
+		<key>LBTwitter</key>
+		<string>@previewthenew</string>
 		<key>LBEmail</key>
-		<string>facetheheat@icloud.com</string>
+		<string>pavel@miroshnichen.co</string>
 		<key>LBWebsite</key>
-		<string>https://github.com/facetheheat</string>
+		<string>http://pavel.miroshnichen.co</string>
 		<key>LBUpdate</key>
 		<string>https://github.com/facetheheat</string>
 	</dict>

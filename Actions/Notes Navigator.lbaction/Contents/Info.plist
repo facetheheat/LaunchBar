@@ -33,15 +33,15 @@
 		<key>LBChangelog</key>
 		<string></string>
 		<key>LBWebsite</key>
-		<string>https://github.com/facetheheat</string>
+		<string>http://pavel.miroshnichen.co</string>
 		<key>LBEmail</key>
-		<string>facetheheat@icloud.com</string>
+		<string>pavel@miroshnichen.co</string>
 		<key>LBSummary</key>
 		<string>Simple notes.app navigator</string>
 		<key>LBAuthor</key>
 		<string>Pavel Miroshnichenko</string>
 		<key>LBTwitter</key>
-		<string>@bettercallpavel</string>
+		<string>@previewthenew</string>
 	</dict>
 </dict>
 </plist>

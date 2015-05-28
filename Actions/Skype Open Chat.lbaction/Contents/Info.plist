@@ -36,14 +36,18 @@
 	</dict>
 	<key>LBDescription</key>
 	<dict>
+		<key>LBDownload</key>
+		<string>https://github.com/facetheheat</string>
+		<key>LBTwitter</key>
+		<string>@previewthenew</string>
 		<key>LBSummary</key>
 		<string>Skype: Open chat with friend</string>
 		<key>LBAuthor</key>
 		<string>Pavel Miroshnichenko</string>
 		<key>LBEmail</key>
-		<string>facetheheat@icloud.com</string>
+		<string>pavel@miroshnichen.co</string>
 		<key>LBWebsite</key>
-		<string>https://github.com/facetheheat</string>
+		<string>http://pavel.miroshnichen.co</string>
 	</dict>
 </dict>
 </plist>
